@@ -113,8 +113,9 @@ The eBPF code is included in `ebpf_code.c` and handles:
 *   **Error Handling:** Error handling could be improved in a production environment.
 
 ## Disclaimer
-This is a basic implementation of a complex system. The code has been created following the specifications of the provided blog post using PyTorch and therefore the performance of the system will depend on several factors, such as the size and the quality of the training data.
+### Author
+This code was developed based on the ideas and methodology described in the original blog post by Simone Margaritelli <https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/>.
+This is a basic implementation of a complex system. The code has been created following the specifications of the blog post using PyTorch and therefore the performance of the system will depend on several factors, such as the size and the quality of the training data.
 This project is mainly intended to demonstrate the described approach, so feel free to use it as inspiration for your projects!
 
-## Author
-This code was developed based on the ideas and methodology described in the original blog post by Simone Margaritelli <https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/>.
+

@@ -21,7 +21,7 @@ The core idea is to:
 To install dependencies:
 
 ```bash
-pip install torch torchvision torchaudio pandas numpy bcc
+pip install torch pandas numpy bcc
 ```
 
 ## Files

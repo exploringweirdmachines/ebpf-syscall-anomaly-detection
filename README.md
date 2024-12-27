@@ -1,6 +1,6 @@
 # Process Behavior Anomaly Detection using eBPF and Autoencoders
 
-This project implements a system for detecting anomalous process behavior by monitoring system calls using eBPF and analyzing the syscall patterns using a PyTorch-based autoencoder.
+This project implements a system for detecting anomalous process behavior by monitoring system calls using eBPF and analyzing the syscall patterns using an autoencoder.
 
 ## Overview
 
